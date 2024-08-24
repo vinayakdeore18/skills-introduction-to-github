@@ -11,6 +11,10 @@
 
 _Get started using GitHub in less than an hour._
 
+this is my Git repository.
+<br>
+Author - Vinayak Sudam Deore
+
 </header>
 
 <!--
